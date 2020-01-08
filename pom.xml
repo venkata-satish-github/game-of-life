@@ -498,7 +498,7 @@
                      <configuration>
                         <url>http://localhost:8090/manager/text</url>
                         <server>TomcatServer</server>
-                        <path>/leenaitwebapp</path>
+                        <path>/gameoflife</path>
                      </configuration>
                   </plugin>
                </plugins>
